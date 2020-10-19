@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/macros-UPDATE_FIELD/airline_ticket.h
+string
+-
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/macros-UPDATE_FIELD/main.cpp
+airline_ticket.h
+/Users/tlegenkamidollayev/CLionProjects/red-belt/macros-UPDATE_FIELD/airline_ticket.h
+test_runner.h
+/Users/tlegenkamidollayev/CLionProjects/red-belt/macros-UPDATE_FIELD/test_runner.h
+iomanip
+-
+string
+-
+istream
+-
+sstream
+-
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/macros-UPDATE_FIELD/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

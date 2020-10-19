@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/deque/main.cpp
+iostream
+-
+vector
+-
+stdexcept
+-
+

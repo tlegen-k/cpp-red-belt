@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/comparator-generator/airline_ticket.h
+string
+-
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/comparator-generator/main.cpp
+iostream
+-
+airline_ticket.h
+/Users/tlegenkamidollayev/CLionProjects/red-belt/comparator-generator/airline_ticket.h
+test_runner.h
+/Users/tlegenkamidollayev/CLionProjects/red-belt/comparator-generator/test_runner.h
+iomanip
+-
+algorithm
+-
+string
+-
+numeric
+-
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/comparator-generator/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+

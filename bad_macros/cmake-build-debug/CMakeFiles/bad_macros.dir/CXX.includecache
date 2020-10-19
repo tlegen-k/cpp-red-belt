@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/bad_macros/main.cpp
+test_runner.h
+/Users/tlegenkamidollayev/CLionProjects/red-belt/bad_macros/test_runner.h
+ostream
+-
+
+/Users/tlegenkamidollayev/CLionProjects/red-belt/bad_macros/test_runner.h
+sstream
+-
+stdexcept
+-
+iostream
+-
+map
+-
+set
+-
+string
+-
+vector
+-
+
