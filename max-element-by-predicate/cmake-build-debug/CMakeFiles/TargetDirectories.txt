@@ -1,3 +1,0 @@
-/Users/tlegenkamidollayev/CLionProjects/red-belt/max-element-by-predicate/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/tlegenkamidollayev/CLionProjects/red-belt/max-element-by-predicate/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/tlegenkamidollayev/CLionProjects/red-belt/max-element-by-predicate/cmake-build-debug/CMakeFiles/max_element_by_predicate.dir
