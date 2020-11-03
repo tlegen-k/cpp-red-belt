@@ -1,5 +1,5 @@
 ## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-yellow/home/welcome)
+This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
 
 ### Macros UPDATE_FIELD
 

@@ -1,7 +1,3 @@
-//
-// Created by Tlegen Kamidollayev on 8/13/20.
-//
-
 #ifndef MACROS_UPDATE_FIELD_AIRLINE_TICKET_H
 #define MACROS_UPDATE_FIELD_AIRLINE_TICKET_H
 

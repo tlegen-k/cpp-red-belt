@@ -1,6 +1,3 @@
-//
-// Created by Tlegen Kamidollayev on 8/7/20.
-//
 
 #ifndef COMPARATOR_GENERATOR_AIRLINE_TICKET_H
 #define COMPARATOR_GENERATOR_AIRLINE_TICKET_H
@@ -34,10 +31,5 @@ struct AirlineTicket {
     Time arrival_time;
     int price;
 };
-//
-//ostream& operator<<(ostream& os, const AirlineTicket& tkt);
-//bool operator==(const AirlineTicket& lhs, const AirlineTicket& rhs);
-//bool operator<(const AirlineTicket& lhs, const AirlineTicket& rhs) {
-//    return ;
-//}
+
 #endif //COMPARATOR_GENERATOR_AIRLINE_TICKET_H

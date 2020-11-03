@@ -1,5 +1,5 @@
 ## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-yellow/home/welcome)
+This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
 ### Macros generator
 
 Let's pretend that you are developing the innovative AviaScanner flight search service. Your service presents an air ticket as a structure

@@ -1,5 +1,5 @@
 ## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-yellow/home/welcome)
+This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
 ### Maximal element by predicate
 
 Implement function
@@ -13,5 +13,3 @@ It is guaranteed that:
 - pred takes an argument of the type that the elements of the range have
 - Operators ++, ==,! =, * (dereference) are defined for ForwardIterator
 - operator <("less than") is defined for the type pointed to by the iterator
-
-
