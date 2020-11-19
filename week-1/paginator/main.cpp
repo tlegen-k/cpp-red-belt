@@ -37,8 +37,6 @@ public:
     }
 };
 
-// Реализуйте шаблон класса Paginator
-
 template <typename Iterator>
 class Paginator {
 private:
@@ -66,12 +64,9 @@ public:
             }
             pages.push_back({start_page, last});
         }
-//        for (auto it = first; it <= last; it + page_size)
-//        {
-//            pages.push_back(it);
-//        }
+
     }
-    // typename vector<Page<Iterator>>::const_iterator
+
     auto begin() const
     {
         return pages.begin();
@@ -80,7 +75,7 @@ public:
     {
         return pages.end();
     }
-    // typename vector<Page<Iterator>>::iterator
+
     auto begin()
     {
         return pages.begin();
@@ -97,7 +92,6 @@ public:
 
 template <typename C>
 auto Paginate(C& c, size_t page_size) {
-    // Реализуйте этот шаблон функции
     return Paginator
             {
                 c.begin(), c.end(), page_size
@@ -215,12 +209,4 @@ int main() {
   RUN_TEST(tr, TestPagePagination);
   RUN_TEST(tr, TestEmpty);
   RUN_TEST(tr, TestOversized);
-//    {
-//
-//        vector<int> v(15);
-//        iota(begin(v), end(v), 1);
-//        int value_1 = 4;
-//        int value_2 = 2;
-//        Paginate(Paginate(v, value_1),value_2);
-//    }
 }

@@ -1,7 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-
-### Macros UPDATE_FIELD
+## Macros UPDATE_FIELD
 
 We will continue working on the AviaScanner flight search service. Our service stores a database of tickets in the form of vector <AirlineTicket>, where AirlineTicket is the same structure as in the previous task. From time to time, our service bypasses the websites of airlines, collects the latest information about available tickets and updates the records in its database. This is done using the void UpdateTicket function (AirlineTicket & ticket, const map <string, string> & updates). The updates parameter contains pairs (field name; new value). However, it contains only those fields that have changed. An example of how the UpdateTicket function works:
 ```cpp

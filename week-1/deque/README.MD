@@ -1,7 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-
-### Deque on two vectors
+## Deque on two vectors
 
 Write a templated Deque class containing the following set of methods:
 

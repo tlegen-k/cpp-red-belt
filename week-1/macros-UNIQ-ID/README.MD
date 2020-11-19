@@ -1,7 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-
-### Macros UNIQ_ID
+## Macros UNIQ_ID
 
 Develop a UNIQ_ID macro that will generate an identifier that is unique within a given cpp file. For example, the following code should compile and work:
 ```cpp

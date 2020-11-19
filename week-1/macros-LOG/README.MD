@@ -1,6 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-### Macros LOG
+## Macros LOG
 
 You are given class Logger and macros LOG
 ```cpp

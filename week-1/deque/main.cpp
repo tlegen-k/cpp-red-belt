@@ -127,14 +127,9 @@ int main() {
         d1.PushBack(4);
         d1.PushBack(5);
         d1.PushBack(6);
-    //    cout << "Size of Deque: " << d1.Size() << endl;
-    //    cout << d1.At(5) << endl;
         for (int i =0 ; i < d1.Size(); i++) {
             cout << d1.At(i) << endl;
         }
-    //    cout << "Front of Deque: " << d1.Front() << endl;
-    //    cout << "Back of Deque: " << d1.Back() << endl;
-//        return 0;
     }
     {
         Deque<int> d2;

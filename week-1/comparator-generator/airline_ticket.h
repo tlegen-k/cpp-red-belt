@@ -1,7 +1,5 @@
-
 #ifndef COMPARATOR_GENERATOR_AIRLINE_TICKET_H
 #define COMPARATOR_GENERATOR_AIRLINE_TICKET_H
-#pragma once
 
 #include <string>
 

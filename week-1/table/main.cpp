@@ -2,7 +2,6 @@
 
 using namespace std;
 
-// Реализуйте здесь шаблонный класс Table
 template <typename T> class Table {
 private:
     vector<vector<T>> table;

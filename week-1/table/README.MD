@@ -1,7 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-
-### Table
+## Table
 
 You need to write a templated Table class for the spreadsheet. For simplicity, we will assume that all table cells have the same data type T. The table must be able to change its size at the user's request. Newly created cells should be filled with default values ​​of type T.
 

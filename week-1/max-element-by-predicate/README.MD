@@ -1,6 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-### Maximal element by predicate
+## Maximal element by predicate
 
 Implement function
 ```cpp

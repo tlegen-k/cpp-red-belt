@@ -7,8 +7,7 @@
 #include <string>
 #include <numeric>
 using namespace std;
-// Реализуйте этот макрос, а также необходимые
-// операторы для классов Date и Time
+
 bool operator==(const Date &lhs, const Date &rhs) {
     return ((lhs.day == rhs.day) &&
             (lhs.month == rhs.month) &&

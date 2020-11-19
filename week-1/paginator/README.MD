@@ -1,7 +1,4 @@
-## C++ Red belt
-This repository contains my solutions to tasks from week 1 of [C++ course](https://www.coursera.org/learn/c-plus-plus-red/)
-
-### Template Paginator
+## Template Paginator
 In the lesson, we developed the Head function that allows you to loop through the for loop at the beginning of the container. In this task, we will take a step forward and develop a Paginator template that splits the contents of a container into multiple pages. A classic example of when this can be useful in practice is the distribution of the list of mobile applications across phone screens. Let's say we have a vector of all applications on our phone and we can place 20 application icons on one screen. Then we can distribute applications across screens with the following code:
 ```cpp
 vector<vector<Application>> DistributeAmongScreens(const vector<Application>& apps) {
